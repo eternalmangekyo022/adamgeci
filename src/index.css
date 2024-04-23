@@ -10,3 +10,9 @@ nav {
 nav img {
 	width: 2.5rem;
 }
+
+#khan-section {
+	height: 100%;
+	background-image: url('./assets/genghiskhanbg.png');
+	background-size: 70%;
+}
