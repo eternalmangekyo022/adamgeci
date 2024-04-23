@@ -5,6 +5,6 @@ export default function App() {
   return <div className='w-svw h-svh relative'>
     <Header></Header>
     <main></main>
-    lorem100
+    
   </div>
 }
